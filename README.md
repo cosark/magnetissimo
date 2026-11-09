@@ -176,6 +176,10 @@ Then open [localhost:4000](http://localhost:4000). In development the
 database starts with a few dozen demo torrents to look at.
 Search for something and the real sources start filling the index.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Magnetissimo/)
+
 ## Searching
 
 Type one or more words in the search box. Magnetissimo shows the torrents
